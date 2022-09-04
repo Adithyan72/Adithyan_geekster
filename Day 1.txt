@@ -1,0 +1,56 @@
+1) Print “Hello I am enjoying coding”
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello I am enjoying coding");
+   }
+}
+
+2) Print the below pattern:
+Hello
+I
+am
+enjoying
+coding
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+        System.out.println("I");
+        System.out.println("am ");
+        System.out.println("enjoying ");
+        System.out.println("coding");
+    }
+}
+
+3) Find the sum, product of 100,8,3.
+		
+public class Main {
+    public static void main(String[] args) {
+        int a=100;
+        int b=8;
+        int c=3;
+        
+        System.out.println(a+b+c);
+        System.out.println(a*b*c);
+       
+    }
+}
+
+4) Find the difference b/w 100 and 40.
+
+public class void main{
+	public static void main(String[] args)
+		int a=100;
+		int b=40;
+		System.out.println(a-b);
+}
+
+5) Print the below pattern
+*****
+*****
+*****
+*****
+*****
+*****
+

@@ -1,0 +1,11 @@
+1) Take the diameter of a circle as input. Print the area of the circle as integer input.
+
+public class Main {
+     public static void main(String[] args){
+         int diameter;
+         double pi=3.142,area;
+         diameter=10;
+         area=pi*(diameter/2)*(diameter/2);
+         System.out.println("Area of circle"+ area);
+    }
+}
